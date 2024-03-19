@@ -4,7 +4,7 @@
 
 ## Hi, 👋 I'm 贝米少年
 
-- 🌱 目前正在学习 *Golang安全开发* 、 *域内攻击* 和*黑灰研究*。
+- 🌱 目前正在学习 *Golang安全开发* 、 *域内攻击* 和*云原生攻击*。
 - 📫 联系方式: xiaor00tg@gmail.com
 
 ### Languaues and Tools
