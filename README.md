@@ -1,47 +1,27 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=191970&width=435&lines=不走寻常路，美...;&center=true&size=27" alt="Typing SVG" />
-</div>
+<h1 align="center">yourname</h1>
 
-## Hi, 👋 I'm 贝米少年
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Red+Team+%7C+Reverse+%7C+Security+Research;Go+for+Engineering;Java+for+Auditing;Rust+Loading..." />
+</p>
 
-- 🌱 目前正在学习 *Golang安全开发* 、 *域内攻击* 、*云原生攻击* *和* *JAVA安全*。      
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Red%20Team-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Language-Java-E76F00?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Learning-Rust-DEA584?style=for-the-badge&labelColor=0d1117" />
+</p>
 
+```bash
+> whoami
+Red team oriented security researcher
 
+> current_focus
+Windows / AD / Reverse / Code Audit / Tooling
 
+> status
+Learning never stops.
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 📫 联系方式: xiaor00tg@gmail.com
-
-### Languaues and Tools
-
-<span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-F05032?style=flat-square&logo=Git&logoColor=white">  
-</span>
-
-### My GitHub Contributions
-
-![](https://cwd295645351.github.io/Cwd295645351/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
