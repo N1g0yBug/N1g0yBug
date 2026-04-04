@@ -1,11 +1,11 @@
-# yourname
+# N1g0yBug
 
 > Red Team Oriented  
 > Reverse Engineering / Cloud-Native Attack / Security Research
 
 ```bash
 > current_focus
-Windows / AD / App 逆向 / 云原生攻击 / 工具开发
+Active Directory / App 逆向 / 云原生攻防 / 武器化开发 / AI对抗
 
 > tech_stack
 Go / Java / Rust
@@ -13,12 +13,6 @@ Go / Java / Rust
 > status
 Learning. Building. Evolving.
 ```
-
-## 技术方向
-
-- Go：红队武器化开发
-- Java：App 逆向
-- Rust：学习中
 
 ## 关键词
 
